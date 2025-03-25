@@ -8,23 +8,22 @@ public class TestIntegrationSample {
     @Test(priority = 1)
     public void testCreateBookingSample()
     {
+
         Assert.assertTrue(true);
     }
 
     @Test(priority = 2)
-    public void testVerifyBookingIdSample()
-    {
+    public void testVerifyBookingIdSample() {
         Assert.assertTrue(true);
     }
+
     @Test(priority = 3)
-    public void testupdateBookingSample()
-    {
+    public void testupdateBookingSample() {
         Assert.assertTrue(true);
     }
 
     @Test(priority = 4)
-    public void testdeleteBookingSample()
-    {
+    public void testdeleteBookingSample() {
         Assert.assertTrue(true);
     }
 
